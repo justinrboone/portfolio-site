@@ -1,0 +1,24 @@
+body {
+	font-family: 'Raleway', sans-serif;
+	color: #2d3c49
+}
+
+h1 {
+	font-size: 56px;
+}
+
+h2 {
+	color: #7d97ad
+}
+
+.logo {
+	margin: auto;
+	padding-top: 15px;
+}
+
+.line {
+	background: #7d97ad;
+	padding: 2px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
